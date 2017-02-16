@@ -1,0 +1,14 @@
+.frame {
+    width: 500px;
+    border: 2px;
+    list-style-type:none;
+}
+li {
+    display: inline;
+}
+fieldset {
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+}
+
